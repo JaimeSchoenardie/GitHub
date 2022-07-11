@@ -1,2 +1,2 @@
 print('Olá Mundo!')
-Print('Teste GitHub')
+print('Teste GitHub')
